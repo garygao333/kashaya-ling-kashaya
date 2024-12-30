@@ -1,0 +1,48 @@
+*.sql
+site/files
+site/settings.php
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# data clearning related
+/data_cleaning/details.txt
+/data_cleaning/speakers.txt
+/data_cleaning/vocab.csv
+/data_cleaning/vocab.csv
+/data_cleaning/Kashaya web list - words.csv
+/data_cleaning/Kashaya web list - sentences.json
+/data_cleaning/result_vocab_img.json
+/data_cleaning/result_vocab_noimg.json
+/data_cleaning/result_all_words.json
+/data_cleaning/result_img_words.json
+/data_cleaning/result_setences.json
+/data_cleaning/Files/*
+/kashaya-web-pages.txt
+
+# static files
+/src/static/audio
+/src/static/img
+/src/static/result_vocab_img.json
+/src/static/result_vocab_noimg.json
+/public/static/*
+
+# production
+/build
+/data-prev

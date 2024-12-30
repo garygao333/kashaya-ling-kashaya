@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kashaya-ling-kashaya/static/css/main.96e59dc3.chunk.css",
+    "main.js": "/kashaya-ling-kashaya/static/js/main.ad87d519.chunk.js",
+    "main.js.map": "/kashaya-ling-kashaya/static/js/main.ad87d519.chunk.js.map",
+    "runtime-main.js": "/kashaya-ling-kashaya/static/js/runtime-main.18629a3e.js",
+    "runtime-main.js.map": "/kashaya-ling-kashaya/static/js/runtime-main.18629a3e.js.map",
+    "static/js/2.211b624b.chunk.js": "/kashaya-ling-kashaya/static/js/2.211b624b.chunk.js",
+    "static/js/2.211b624b.chunk.js.map": "/kashaya-ling-kashaya/static/js/2.211b624b.chunk.js.map",
+    "index.html": "/kashaya-ling-kashaya/index.html",
+    "precache-manifest.230cea911c91445d373fecd43d52b9d2.js": "/kashaya-ling-kashaya/precache-manifest.230cea911c91445d373fecd43d52b9d2.js",
+    "service-worker.js": "/kashaya-ling-kashaya/service-worker.js",
+    "static/css/main.96e59dc3.chunk.css.map": "/kashaya-ling-kashaya/static/css/main.96e59dc3.chunk.css.map",
+    "static/js/2.211b624b.chunk.js.LICENSE.txt": "/kashaya-ling-kashaya/static/js/2.211b624b.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/kashaya-ling-kashaya/static/media/background.1619f5f3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18629a3e.js",
+    "static/js/2.211b624b.chunk.js",
+    "static/css/main.96e59dc3.chunk.css",
+    "static/js/main.ad87d519.chunk.js"
+  ]
+}
