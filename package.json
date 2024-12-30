@@ -22,7 +22,7 @@
     "build": "export NODE_OPTIONS=--openssl-legacy-provider; react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
+    "predeploy": "npm run build && cp -R ./data/static/Files ./build/static/Files", 
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
