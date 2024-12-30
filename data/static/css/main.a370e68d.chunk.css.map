@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,MACE,UAAW,CAEX,gBAAiB,CACjB,8DAAsD,CACtD,qBACF","file":"main.a370e68d.chunk.css","sourcesContent":["#hero {\n  width: 100%;\n  /* height: 100vh; */\n  min-height: 100vh;\n  background: url(\"../static/background.jpg\") top center;\n  background-size: cover;\n}"]}
